@@ -1,4 +1,4 @@
-# Calculadora Simples
+# Calculadora
 
 <p align="left">
   <img width="150" height="200" src="/Calculadora/gifcalc.gif">
@@ -6,7 +6,7 @@
 
 ## Descrição 
 
-Calculadora criada em HTML CSS e JS, para fins didáticos, criei essa calculadora, para treinar meus conhecimentos em Css3, Html e JavaScript. 
+Calculadora criada em HTML CSS e JS, com fins didáticos, criei essa calculadora, para treinar meus conhecimentos em Css3, Html e JavaScript. 
 
 ## Como instalar ?
 
